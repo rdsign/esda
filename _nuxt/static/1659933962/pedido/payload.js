@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pedido", {data:[{}],fetch:[],mutations:[]});
