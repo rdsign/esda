@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/palco-aberto", {data:[{}],fetch:[],mutations:[]});
